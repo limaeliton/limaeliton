@@ -1,7 +1,7 @@
 ### Olá!  Eu Sou Eliton Lima
 
 
-  🌱 Estudando Análise e Desenv. de Sistemas
+ -🌱 Estudando Análise e Desenv. de Sistemas
 - 🔭 hoje Busco uma Oportunidade na Área
 - 😄 Pronouns: ele/dele
 
