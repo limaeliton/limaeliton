@@ -2,7 +2,7 @@
  
 Estudando Análise e Desenv. de Sistemas.
 
-hoje Busco uma Oportunidade na Área.
+Hoje Busco uma Oportunidade na Área.
  
 
 
