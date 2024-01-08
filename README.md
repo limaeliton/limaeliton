@@ -1,8 +1,11 @@
 ### Olá!  Eu Sou Eliton Lima
  
-Estudando Análise e Desenv. de Sistemas.
+Graduado em Análise e Desenvolvimento de Sistemas, com MBA em Logística Empresarial, Graduado em Gestão de Sistemas de Informação, e curso Técnico em Informática.
 
-Hoje Busco uma Oportunidade na Área.
+Em transição para a área de TI, mas possuo excelentes conhecimentos na área de Logística, onde atuei no recebimento, conferência, classificação, armazenamento, separação, distribuição e transporte, permitindo a criação e implantação de ações preventivas e corretivas dos procedimentos.
+Capacidade de atuação em projetos de Tecnologia, prestação de suporte técnico em TI, levantamento de requisitos técnicos e funcionais para desenvolvimento de aplicações e sistemas, apresentação de soluções focadas na experiência do cliente, e das melhores práticas da área.
+Capacidade de produzir e relatar dados da área de Tecnologia com precisão e comunicar-se de forma eficaz com os stakeholders e superiores, a fim de facilitar uma tomada de decisão ideal.
+Habilidades de comunicação interpessoal, gestão de pessoas, percepção crítica e analítica para a melhoria em processos administrativos, tecnológicos e logísticos.
 
 
 <br><br>
