@@ -1,11 +1,40 @@
 ### Olá!  Eu Sou Eliton Lima
- 
-Graduado em Análise e Desenvolvimento de Sistemas, com MBA em Logística Empresarial, Graduado em Gestão de Sistemas de Informação, e curso Técnico em Informática.
 
-Em transição para a área de TI, mas possuo excelentes conhecimentos na área de Logística, onde atuei no recebimento, conferência, classificação, armazenamento, separação, distribuição e transporte, permitindo a criação e implantação de ações preventivas e corretivas dos procedimentos.
-Capacidade de atuação em projetos de Tecnologia, prestação de suporte técnico em TI, levantamento de requisitos técnicos e funcionais para desenvolvimento de aplicações e sistemas, apresentação de soluções focadas na experiência do cliente, e das melhores práticas da área.
-Capacidade de produzir e relatar dados da área de Tecnologia com precisão e comunicar-se de forma eficaz com os stakeholders e superiores, a fim de facilitar uma tomada de decisão ideal.
-Habilidades de comunicação interpessoal, gestão de pessoas, percepção crítica e analítica para a melhoria em processos administrativos, tecnológicos e logísticos.
+Possuo formação em Análise e Desenvolvimento de Sistemas e em Gestão de Sistemas de Informação, com MBA em Logística Empresarial.
+
+- Capacidade de atuação em projetos de Tecnologia, prestação de suporte técnico em TI, levantamento de requisitos técnicos e funcionais para desenvolvimento de aplicações e sistemas, apresentação de soluções focadas na experiência do cliente, e das melhores práticas da área.
+
+- Capacidade de produzir e relatar dados da área de Tecnologia com precisão e comunicar-se de forma eficaz com os stakeholders e superiores, a fim de facilitar uma tomada de decisão ideal.
+
+- Habilidades de comunicação interpessoal, gestão de pessoas, percepção crítica e analítica para a melhoria em processos administrativos, tecnológicos e logísticos.
+
+Habilidades Técnicas: 
+• Power BI;
+• SQL;
+• Python;
+• Git;
+• Excel;
+• Estatística;
+• NumPy;
+• Pandas;
+• Análise de Dados;
+• AWS;
+
+Ferramentas:
+• Power BI Desktop;
+• Visual Studio Code;
+
+Qualidades Pessoais:
+ • Rápido Aprendizado;
+ • Organizado;
+ • Bom em Resolução de Problema;
+ • Experiência de Cliente;
+ • Bom para dar e receber feedbacks;
+
+Portfólio: https://sites.google.com/view/portfolioelitonlima/in%C3%ADcio
+
+✉ limaeliton@gmail.com
+📞 (81) 98774-3050
 
 
 <br><br>
