@@ -33,8 +33,6 @@ Qualidades Pessoais:
 
 Portfólio: https://sites.google.com/view/portfolioelitonlima/in%C3%ADcio
 
-✉ limaeliton@gmail.com
-📞 (81) 98774-3050
 
 
 <br><br>
