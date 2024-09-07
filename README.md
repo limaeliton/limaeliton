@@ -31,8 +31,6 @@ Qualidades Pessoais:
  • Experiência de Cliente;
  • Bom para dar e receber feedbacks;
 
-Portfólio: https://sites.google.com/view/portfolioelitonlima/in%C3%ADcio
-
 
 
 <br><br>
@@ -72,5 +70,6 @@ Portfólio: https://sites.google.com/view/portfolioelitonlima/in%C3%ADcio
  
   <a href = "mailto:limaeliton@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elitonlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
 </div>
